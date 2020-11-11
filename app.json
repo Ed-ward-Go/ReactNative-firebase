@@ -14,12 +14,14 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
-      "**/*"
+      "assets/*"
     ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.edmad.rncovimerce",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -27,6 +29,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Registro usuarios comercio",
+    "githubUrl": "https://github.com/Ed-ward-Go/ReactNative-firebase.git"
   }
 }
