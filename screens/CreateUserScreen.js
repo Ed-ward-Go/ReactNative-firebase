@@ -99,7 +99,8 @@ const stylos = StyleSheet.create({
         flex: 1,
         paddingLeft: 20,
         paddingRight: 20,
-        paddingTop: 30
+        paddingTop: 30,
+        paddingBottom: 30
         },
 
         inputGroup: {

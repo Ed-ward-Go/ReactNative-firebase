@@ -137,15 +137,16 @@ return (
 </View>
 </View>
 
-</ScrollView>
-    )
+</ScrollView>   
+)
 }
 const stylos = StyleSheet.create({
     contenedor: {
         flex: 1,
         paddingLeft: 20,
         paddingRight: 20,
-        paddingTop: 30
+        paddingTop: 30,
+        paddingBottom: 30
         },
 
         inputGroup: {

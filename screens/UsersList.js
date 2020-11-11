@@ -85,7 +85,8 @@ const stylos = StyleSheet.create({
     contenedor: {
     flex: 1,
     padding: 0.1,
-    marginTop: 10
+    marginTop: 10,
+    paddingBottom: 30
     },
     content: {
         flex: 3,
@@ -106,8 +107,8 @@ const stylos = StyleSheet.create({
             borderBottomColor: "#cccccc"
         },
        botonUser:{
-        flex:1,    
-        borderColor: '#5c5c5c',
+            flex:1,    
+            borderColor: '#5c5c5c',
             borderWidth: 1,
             borderRadius: 5,
             marginBottom:10,
